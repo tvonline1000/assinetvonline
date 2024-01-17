@@ -1,0 +1,20 @@
+body{
+color:black;
+background-color: brown;}
+font-family: Arial,helvetica,sans-serif;
+}
+
+ul{display: flex;justify-content:
+     space-between;
+    list-style-type: none;
+align-items: center;
+padding: 16px;
+color: blue;
+text-decoration: none;
+}
+img{
+width: 250px;
+height: 250px;}
+.center {
+    text-align: center;
+}
